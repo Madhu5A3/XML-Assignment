@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<!DOCTYPE expenses SYSTEM "index.dtd">
+<expenses xmlns="https://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="index.xsd">
+    <expense>
+        <date>12-02-2018</date>
+        <amount>$750</amount>
+        <category>Education</category>
+        <description>Semester Fee</description>
+    </expense>
+    <expense>
+        <date>13-02-2018</date>
+        <amount>$1050</amount>
+        <category>Sanitation</category>
+        <description>Dry Cleaning and stuff</description>
+    </expense>
+    <expense>
+        <date>14-02-2018</date>
+        <amount>$1500</amount>
+        <category>Groceries</category>
+        <description>Basic Food for normal days</description>
+    </expense>
+    <expense>
+        <date>15-02-2018</date>
+        <amount>$2000</amount>
+        <category>Outside Food</category>
+        <description>Junk Food on Weekend's.</description>
+    </expense>
+</expenses>
